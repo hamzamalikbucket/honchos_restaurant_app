@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "1011606518727",
+    "project_id": "food-order-flutter-868a3",
+    "storage_bucket": "food-order-flutter-868a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011606518727:android:86705cef38e96b38f937e2",
+        "android_client_info": {
+          "package_name": "com.foodOrder.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011606518727-5dstfdg8c1qhjo5lv6k6ts2qviv306ok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodOrder.android",
+            "certificate_hash": "281faf26ae13bb02b164cc23657032ab555459d0"
+          }
+        },
+        {
+          "client_id": "1011606518727-5bal0k9b22umdh2kdc8m55aghulv50gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoLcq9ljSXzLeXmO1AQPEdSriWFkvhpVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011606518727-5bal0k9b22umdh2kdc8m55aghulv50gk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1011606518727-tf0d8c21uch5ftm0nj1h50ac38329tlm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tanzeem.lupbootcamp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011606518727:android:e028a9eff6f3d28df937e2",
+        "android_client_info": {
+          "package_name": "com.honchos.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011606518727-iual2e4t409qnbbdgc8h7artutl2td18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.honchos.driver",
+            "certificate_hash": "281faf26ae13bb02b164cc23657032ab555459d0"
+          }
+        },
+        {
+          "client_id": "1011606518727-5bal0k9b22umdh2kdc8m55aghulv50gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoLcq9ljSXzLeXmO1AQPEdSriWFkvhpVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011606518727-5bal0k9b22umdh2kdc8m55aghulv50gk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1011606518727-tf0d8c21uch5ftm0nj1h50ac38329tlm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tanzeem.lupbootcamp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011606518727:android:764f48b74e30448af937e2",
+        "android_client_info": {
+          "package_name": "com.honchos.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011606518727-rd93asqk8drufia448cg0nh3grrttdc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.honchos.restaurant",
+            "certificate_hash": "281faf26ae13bb02b164cc23657032ab555459d0"
+          }
+        },
+        {
+          "client_id": "1011606518727-5bal0k9b22umdh2kdc8m55aghulv50gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoLcq9ljSXzLeXmO1AQPEdSriWFkvhpVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011606518727-5bal0k9b22umdh2kdc8m55aghulv50gk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1011606518727-tf0d8c21uch5ftm0nj1h50ac38329tlm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tanzeem.lupbootcamp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

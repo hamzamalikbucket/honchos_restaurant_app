@@ -5,8 +5,8 @@ const String cookie = 'NUZ9J67CmsrRkWPqW765evDXDBCttdgnKtygvzSR';
 const String googleMapKey = "AIzaSyDT2jOXq4VDp9DluoLKbX5d_loZSKwr5V0";
 // AIzaSyBAjePmdqb4OLKiXkOiMv9ImMCw-riRek4 Jsol key
 
-const String apiBaseUrl = 'http://restaurant.wettlanoneinc.com/api/';
-const String baseUrlMain = 'https://restaurant.wettlanoneinc.com/';
+const String apiBaseUrl = 'http://restaurant.ancerl.co.za/api/';
+const String baseUrlMain = 'http://restaurant.ancerl.co.za/';
 const String imageConstUrl =
     '${baseUrlMain}image/category/';
 const String imageConstUrlBanner =
